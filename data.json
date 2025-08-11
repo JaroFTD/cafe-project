@@ -7,7 +7,8 @@
       "image": "img/product/01.jpg",
       "isOnion": true,
       "isSauce": false,
-      "isPosition": "soups" 
+      "isPosition": "soups",
+      "stars": 1 
    },
    "product2": {
       "id": 2,
@@ -17,7 +18,8 @@
       "image": "img/product/02.jpg",
       "isOnion": true,
       "isSauce": true,
-      "isPosition": "soups" 
+      "isPosition": "soups",
+      "stars": 2 
    },
    "product3": {
       "id": 3,
@@ -27,7 +29,8 @@
       "image": "img/product/03.jpg",
       "isOnion": false,
       "isSauce": true,
-      "isPosition": "soups" 
+      "isPosition": "soups",
+      "stars": 3  
    },
    "product4": {
       "id": 4,
@@ -37,7 +40,8 @@
       "image": "img/product/04.jpg",
       "isOnion": true,
       "isSauce": false,
-      "isPosition": "soups" 
+      "isPosition": "soups",
+      "stars": 4  
    },
    "product5": {
       "id": 5,
@@ -47,7 +51,8 @@
       "image": "img/product/05.jpg",
       "isOnion": true,
       "isSauce": true,
-      "isPosition": "soups" 
+      "isPosition": "soups",
+      "stars": 5  
    },
    "product6": {
       "id": 6,
@@ -57,7 +62,8 @@
       "image": "img/product/06.jpg",
       "isOnion": false,
       "isSauce": true,
-      "isPosition": "hot-dishes" 
+      "isPosition": "hot-dishes",
+      "stars": 5  
    },
    "product7": {
       "id": 7,
@@ -67,7 +73,8 @@
       "image": "img/product/07.jpg",
       "isOnion": true,
       "isSauce": false,
-      "isPosition": "hot-dishes" 
+      "isPosition": "hot-dishes",
+      "stars": 5  
    },
    "product8": {
       "id": 8,
@@ -77,7 +84,8 @@
       "image": "img/product/08.jpg",
       "isOnion": true,
       "isSauce": false,
-      "isPosition": "hot-dishes" 
+      "isPosition": "hot-dishes",
+      "stars": 4  
    },
    "product9": {
       "id": 9,
@@ -87,7 +95,8 @@
       "image": "img/product/09.jpg",
       "isOnion": true,
       "isSauce": true,
-      "isPosition": "hot-dishes" 
+      "isPosition": "hot-dishes",
+      "stars": 3  
    },
    "product10": {
       "id": 10,
@@ -97,7 +106,8 @@
       "image": "img/product/10.jpg",
       "isOnion": true,
       "isSauce": true,
-      "isPosition": "hot-dishes" 
+      "isPosition": "hot-dishes",
+      "stars": 2  
    },
    "product11": {
       "id": 11,
@@ -107,7 +117,8 @@
       "image": "img/product/11.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "desserts" 
+      "isPosition": "desserts",
+      "stars": 1  
    },
    "product12": {
       "id": 12,
@@ -117,7 +128,8 @@
       "image": "img/product/12.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "desserts" 
+      "isPosition": "desserts",
+      "stars": 1  
    },
    "product13": {
       "id": 13,
@@ -127,7 +139,8 @@
       "image": "img/product/13.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "desserts" 
+      "isPosition": "desserts",
+      "stars": 2  
    },
    "product14": {
       "id": 14,
@@ -137,7 +150,8 @@
       "image": "img/product/14.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "desserts" 
+      "isPosition": "desserts",
+      "stars": 3  
    },
    "product15": {
       "id": 15,
@@ -147,7 +161,8 @@
       "image": "img/product/15.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "desserts" 
+      "isPosition": "desserts",
+      "stars": 4  
    },
    "product16": {
       "id": 16,
@@ -157,7 +172,8 @@
       "image": "img/product/16.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "coffee" 
+      "isPosition": "coffee",
+      "stars": 5  
    },
    "product17": {
       "id": 17,
@@ -167,7 +183,8 @@
       "image": "img/product/17.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "coffee" 
+      "isPosition": "coffee",
+      "stars": 5  
    },
    "product18": {
       "id": 18,
@@ -177,7 +194,8 @@
       "image": "img/product/18.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "coffee" 
+      "isPosition": "coffee",
+      "stars": 4 
    },
    "product19": {
       "id": 19,
@@ -187,7 +205,8 @@
       "image": "img/product/19.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "coffee" 
+      "isPosition": "coffee",
+      "stars": 3 
    },
    "product20": {
       "id": 20,
@@ -197,6 +216,7 @@
       "image": "img/product/20.jpg",
       "isOnion": false,
       "isSauce": false,
-      "isPosition": "coffee" 
+      "isPosition": "coffee",
+      "stars": 2  
    }
 }

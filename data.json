@@ -1,7 +1,7 @@
 {
    "product1": {
       "id": 1,
-      "title": "Окрошка на квасе",
+      "titel": "Окрошка на квасе",
       "weight": "300г",
       "price": 790,
       "image": "img/product/01.jpg",
@@ -12,7 +12,7 @@
    },
    "product2": {
       "id": 2,
-      "title": "Гаспачо с камчатским крабом и авокадо",
+      "titel": "Гаспачо с камчатским крабом и авокадо",
       "weight": "300г",
       "price": 1700,
       "image": "img/product/02.jpg",
@@ -23,7 +23,7 @@
    },
    "product3": {
       "id": 3,
-      "title": "Грибной суп",
+      "titel": "Грибной суп",
       "weight": "300г",
       "price": 990,
       "image": "img/product/03.jpg",
@@ -34,7 +34,7 @@
    },
    "product4": {
       "id": 4,
-      "title": "Щавелевый холодный суп",
+      "titel": "Щавелевый холодный суп",
       "weight": "300г",
       "price": 790,
       "image": "img/product/04.jpg",
@@ -45,7 +45,7 @@
    },
    "product5": {
       "id": 5,
-      "title": "Сёю рамен",
+      "titel": "Сёю рамен",
       "weight": "500г",
       "price": 1300,
       "image": "img/product/05.jpg",
@@ -56,7 +56,7 @@
    },
    "product6": {
       "id": 6,
-      "title": "Картофельные зразы",
+      "titel": "Картофельные зразы",
       "weight": "320г",
       "price": 1200,
       "image": "img/product/06.jpg",
@@ -67,7 +67,7 @@
    },
    "product7": {
       "id": 7,
-      "title": "Тай-шницель из креветок",
+      "titel": "Тай-шницель из креветок",
       "weight": "190г",
       "price": 1500,
       "image": "img/product/07.jpg",
@@ -78,7 +78,7 @@
    },
    "product8": {
       "id": 8,
-      "title": "Цыплёнок с бургундским соусом",
+      "titel": "Цыплёнок с бургундским соусом",
       "weight": "280г",
       "price": 1500,
       "image": "img/product/08.jpg",
@@ -89,7 +89,7 @@
    },
    "product9": {
       "id": 9,
-      "title": "Судак с картофелем “Анна” и лисичками",
+      "titel": "Судак с картофелем “Анна” и лисичками",
       "weight": "300г",
       "price": 1400,
       "image": "img/product/09.jpg",
@@ -100,7 +100,7 @@
    },
    "product10": {
       "id": 10,
-      "title": "Большая котлета из говядины",
+      "titel": "Большая котлета из говядины",
       "weight": "320г",
       "price": 1500,
       "image": "img/product/10.jpg",
@@ -111,7 +111,7 @@
    },
    "product11": {
       "id": 11,
-      "title": "Медвежонок",
+      "titel": "Медвежонок",
       "weight": "65г",
       "price": 850,
       "image": "img/product/11.jpg",
@@ -122,7 +122,7 @@
    },
    "product12": {
       "id": 12,
-      "title": "Grand Cru",
+      "titel": "Grand Cru",
       "weight": "80г",
       "price": 890,
       "image": "img/product/12.jpg",
@@ -133,7 +133,7 @@
    },
    "product13": {
       "id": 13,
-      "title": "Оникс",
+      "titel": "Оникс",
       "weight": "80г",
       "price": 790,
       "image": "img/product/13.jpg",
@@ -144,7 +144,7 @@
    },
    "product14": {
       "id": 14,
-      "title": "Агата",
+      "titel": "Агата",
       "weight": "100г",
       "price": 850,
       "image": "img/product/14.jpg",
@@ -155,7 +155,7 @@
    },
    "product15": {
       "id": 15,
-      "title": "Ашанте",
+      "titel": "Ашанте",
       "weight": "115г",
       "price": 890,
       "image": "img/product/15.jpg",
@@ -166,7 +166,7 @@
    },
    "product16": {
       "id": 16,
-      "title": "Эспрессо",
+      "titel": "Эспрессо",
       "weight": "30мл",
       "price": 280,
       "image": "img/product/16.jpg",
@@ -177,7 +177,7 @@
    },
    "product17": {
       "id": 17,
-      "title": "Окрошка на квасе",
+      "titel": "Окрошка на квасе",
       "weight": "100мл",
       "price": 550,
       "image": "img/product/17.jpg",
@@ -188,7 +188,7 @@
    },
    "product18": {
       "id": 18,
-      "title": "Капучино",
+      "titel": "Капучино",
       "weight": "170мл",
       "price": 510,
       "image": "img/product/18.jpg",
@@ -199,7 +199,7 @@
    },
    "product19": {
       "id": 19,
-      "title": "Матча Капучино",
+      "titel": "Матча Капучино",
       "weight": "170мл",
       "price": 750,
       "image": "img/product/19.jpg",
@@ -210,7 +210,7 @@
    },
    "product20": {
       "id": 20,
-      "title": "Пикколо",
+      "titel": "Пикколо",
       "weight": "130мл",
       "price": 510,
       "image": "img/product/20.jpg",

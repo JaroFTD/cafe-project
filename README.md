@@ -1,2 +1,2 @@
 # cafe-project
-<a href="https://github.com/JaroFTD/cafe-project">Кофейня</a>
+<a href="https://jaroftd.github.io/cafe-project/">Кофейня</a>
